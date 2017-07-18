@@ -1,0 +1,73 @@
+body {
+margin: 0;
+}
+
+header {
+  width: 100%;
+  height: 100px;
+  position: fixed;
+}
+
+.menu {
+  background-image: url("../img/icons/MENU.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 40%;
+  width: 10%;
+  display: inline-block;
+  float: left;
+  margin: 15px 2%;
+}
+
+.title-div {
+  height: 50%;
+  width: 30%;
+  display: inline-block;
+  margin: 5px 20% 10px 20%;
+  text-align: center;
+  float: left;
+}
+
+.site-title {
+  font-size: 3em;
+  text-align: center;
+}
+
+
+.sign-in-div {
+  height: 60%;
+  width: 10%;
+  margin: 15px 2%;
+  display: inline-block;
+  float: left;
+  text-align: center;
+}
+
+.sign-in-text {
+  font-size: 2em;
+}
+
+.top-section {
+  background-image: url("../img/Background.png");
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  background-position: center;
+  width: 100%;
+  height: 250vh;
+}
+
+.shop-deals{
+  background: rgb(137, 150, 137);
+  height: 80px;
+  width: 80%;
+  position: relative;
+  margin-left: 10%;
+  margin-top: -40px;
+}
+
+.shop-deals {
+  color: white;
+  text-align: center;
+  font-size: 3em;
+  padding-top: 20px;
+}

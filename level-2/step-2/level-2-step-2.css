@@ -1,0 +1,92 @@
+body {
+margin: 0;
+}
+
+header {
+  background: rgba(206, 183, 117, 0.53);
+  width: 100%;
+  height: 100px;
+  display: inline-block;
+}
+
+.left-box {
+  background: rgba(0, 103, 0, 0.56);
+  height: 60%;
+  width: 10%;
+  display: inline-block;
+  margin: 10px 2%;
+}
+
+.middle-box {
+  background: rgba(0, 103, 0, 0.56);
+  height: 60%;
+  width: 30%;
+  display: inline-block;
+  margin: 15px 20% 10px 20%;
+}
+
+.right-box {
+  background: rgba(0, 103, 0, 0.56);
+  height: 60%;
+  width: 10%;
+  margin: 10px 2%;
+  display: inline-block;
+}
+
+.top-section {
+  background: rgba(241, 234, 143, 0.51);
+  width: 100%;
+  height: 1000px;
+}
+
+.fixed-rectangle {
+  background: rgba(0, 120, 0, 1);
+  height: 80px;
+  width: 80%;
+  position: relative;
+  margin-left: 10%;
+  margin-top: -40px;
+}
+
+.bottom-section {
+  height: 250vh;
+  margin: auto;
+  padding: 20px;
+}
+
+.row-1 {
+  margin-top: 70px;
+
+}
+
+.left-div {
+  background: rgba(206, 183, 117, 0.53);
+  height: 300px;
+  width: 45%;
+  margin: 20px 2.5%;
+  display: inline-block;
+
+}
+.right-div {
+  background: rgba(206, 183, 117, 0.53);
+  height: 300px;
+  width: 45%;
+  margin: 20px 2%;
+  display: inline-block;
+}
+
+
+.row-2 {
+  background: rgba(206, 183, 117, 0.53);
+  width: 95%;
+  height: 200px;
+  margin: auto;
+}
+
+.row-3 {
+  background: rgba(206, 183, 117, 0.53);
+  width: 95%;
+  height: 500px;
+  margin: auto;
+  margin-top: 20px;
+}
